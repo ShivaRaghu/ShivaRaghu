@@ -1,8 +1,10 @@
 Hi, I’m @ShivaRaghu
 
-I’m interested in understanding and solving problems from different realms
+I am early in my journey of Data Science and Analysis.
 
-I’m currently learning data analytics, statistics and information design
+I’m currently learning R Python, data analytics, statistics and information design.
+
+I’m enjoy working with data and explore it to the core.
 
 <!---
 ShivaRaghu/ShivaRaghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
