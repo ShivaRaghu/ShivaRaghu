@@ -1,6 +1,6 @@
 Hi, I’m Shiva
 
-I am early in my journey of Data Science and Analysis.
+I am early in my journey of Data Analytics and Visualization.
 
 I’m currently learning R Python, data analytics, statistics and information design.
 
