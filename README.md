@@ -1,10 +1,12 @@
 Hi, I’m Shiva
 
-I am early in my journey of Data Analytics and Visualization.
+Data Analyst passionate about turning complex healthcare data into clear, actionable insights.
 
-I’m currently learning R Python, data analytics, statistics and information design.
+I build SQL and Power BI solutions that help organizations track performance and drive better outcomes.
 
-I enjoy exploring data and generating insights.
+My work focuses on data storytelling, KPI design, and automation for healthcare quality and cost analytics.
+
+Here you’ll find projects that connect data, insight, and impact.
 
 <!---
 ShivaRaghu/ShivaRaghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
